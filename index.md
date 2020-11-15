@@ -8,7 +8,13 @@ Before the widespread adoption of floating point numbers, a different standard, 
 
 Another advantage is that fixed-point numbers help to get rid of some of the conditional operators, which allows you to achieve the so-called branchless programming and speed up calculations on modern processors.
 
-The report will talk about the use of Binary Angular Measurement to study the evolution of the rotation of asteroids and planetary satellites.We will discuss the possibility of realizations of the prototype integrator of rotation equations in C programming languages ​​using the Allegro library and the implementation of a model problem on FPGA are compared
+The report will talk about the use of Binary Angular Measurement to study the evolution of the rotation of asteroids and planetary satellites.
 
 
-Acknowledgement.The reported study (The work of G.M. Karelin and Popova E.A.) was funded by RFBR according to the research project 19-02-00811.
+### Acknowledgement.
+The reported study was funded by RFBR according to the research project 19-02-00811.
+
+### Citation
+This work had been started as part of this paper:  Chaos and relativistic effects in the rotational dynamics of minor planetary satellites 
+so before publication next paper,  if you consider, you can cite this :) Thanks 
+https://ui.adsabs.harvard.edu/abs/2020jsrs.conf..339M/abstract
