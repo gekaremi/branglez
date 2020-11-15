@@ -17,4 +17,4 @@ The reported study was funded by RFBR according to the research project 19-02-00
 ### Citation
 This work had been started as part of this paper:  Chaos and relativistic effects in the rotational dynamics of minor planetary satellites 
 so before publication next paper,  if you consider, you can cite this :) Thanks 
-https://ui.adsabs.harvard.edu/abs/2020jsrs.conf..339M/abstract
+[Link](https://ui.adsabs.harvard.edu/abs/2020jsrs.conf..339M/abstract)
