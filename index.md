@@ -32,7 +32,7 @@ Will be available here after video meeting
 
 First of all, incredible collection about floating-ponts numbers.
 
-[References]https://floating-point-gui.de/references/
+[References](https://floating-point-gui.de/references/)
 Where you can find:
 
 "Documents that contain more in-depth information about the topics covered on this wbesite:"
