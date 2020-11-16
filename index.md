@@ -70,9 +70,31 @@ Daniel Lemire is a computer science professor at the University of Quebec (TELUQ
 [Fast fixed-point sine and cosine approximation with Julia](https://nextjournal.com/zorn/fast-fixed-point-sine-and-cosine-approximation-with-julia) by [Soeren Zorn](https://github.com/zsoerenm)•Feb 04 2020
 Repository [FixedPointSinCosApproximations](https://github.com/JuliaGNSS/FixedPointSinCosApproximations.jl)
 
+
+[arXiv:1705.10416 -- Finding Root Causes of Floating Point Error with Herbgrind](https://arxiv.org/abs/1705.10416)
+Alex Sanchez-Stern, Pavel Panchekha, Sorin Lerner, Zachary Tatlock
+
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) 
+Note – This appendix is an edited reprint of the paper What Every Computer Scientist Should Know About Floating-Point Arithmetic, by David Goldberg, published in the March, 1991 issue of Computing Surveys. Copyright 1991, Association for Computing Machinery, Inc., reprinted by permission. 
+
+[Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+Published: January 7, 2014
+
+[Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+Published: June 22, 2017
+
+
 #### TomF's Tech Blog  It
 He works at Intel on GPU and CPU core architectures.
 He worked at Oculus VR on the distortion and timewarp presentation pipeline and many [other](http://eelpi.gotdns.org/)
 And he defended fixed-point in [wikiblog](http://eelpi.gotdns.org/blog.wiki.html) post *A matter of precision* created 1 May 2006 and [updated](https://twitter.com/tom_forsyth/status/430762126471229440) at 29 November 2014.
 
+
+#### Random ASCII – tech blog of Bruce Dawson
+
+[Don’t Store That in a Float](https://randomascii.wordpress.com/2012/02/13/dont-store-that-in-a-float/)
+Posted on February 13, 2012
+
+[Intel Underestimates Error Bounds by 1.3 quintillion](https://randomascii.wordpress.com/2014/10/09/intel-underestimates-error-bounds-by-1-3-quintillion/)
+Posted on October 9, 2014
 
