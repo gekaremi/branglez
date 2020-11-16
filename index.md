@@ -30,7 +30,45 @@ Will be available here after video meeting
 
 ### Collection of interesting links
 
-[Fast fixed-point sine and cosine approximation with Julia](https://nextjournal.com/zorn/fast-fixed-point-sine-and-cosine-approximation-with-julia) by Soeren Zorn•Feb 04 2020
+First of all, incredible collection about floating-ponts numbers.
+
+[References]https://floating-point-gui.de/references/
+Where you can find:
+
+"Documents that contain more in-depth information about the topics covered on this wbesite:"
+
+    Current version of IEEE 754 standard
+    What Every Computer Scientist Should Know About Floating-Point Arithmetic
+    Homepage of William Kahan (architect of the IEEE 754 standard, lots of interesting links)
+    Decimal Arithmetic FAQ
+    Comparing floating-point numbers, 2012 Edition
+    Tool to convert numbers between bases, including fractions
+    Float Toy (toggle individual bits to see what the effects on the value are)
+    IEEE 754 Visualization (another bit toggling tool)
+    Float Exposed (toggle bits or enter values, lots of information)
+    The result of 0.1 + 0.2 in various programming launguages
+
+
+
+[Half-Precision Floating-Point, Visualized](https://observablehq.com/@rreusser/half-precision-floating-point-visualized) by Ricky Reusser rreusser.github.io
+
+[Video: The Neglected Art of Fixed Point Arithmetic](https://www.youtube.com/watch?v=jvrPw-nxFdk)
+Assembly 2006 seminar presentation.
+Author: Jetro Lauha
+
+
+[Angles, directions, and their binary representation](https://www.genericgamedev.com/general/angles-directions-and-their-binary-representation/)
+Posted on 2015-04-06 by Paul Scharf
+
+
+[How many floating-point numbers are in the interval 0~1?](https://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/)
+Daniel Lemire's blog
+Daniel Lemire is a computer science professor at the University of Quebec (TELUQ) in Montreal. His research is focused on software performance and data engineering. He is a techno-optimist.
+
+
+
+[Fast fixed-point sine and cosine approximation with Julia](https://nextjournal.com/zorn/fast-fixed-point-sine-and-cosine-approximation-with-julia) by [Soeren Zorn](https://github.com/zsoerenm)•Feb 04 2020
+Repository [FixedPointSinCosApproximations](https://github.com/JuliaGNSS/FixedPointSinCosApproximations.jl)
 
 #### TomF's Tech Blog  It
 He works at Intel on GPU and CPU core architectures.
