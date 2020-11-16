@@ -8,7 +8,7 @@ Before the widespread adoption of floating point numbers, a different standard, 
 
 Another advantage is that fixed-point numbers help to get rid of some of the conditional operators, which allows you to achieve the so-called branchless programming and speed up calculations on modern processors.
 
-The report will talk about the use of Binary Angular Measurement to study the evolution of the rotation of asteroids and planetary satellites.
+The report will talk about the use of [Binary Angular Measurement](https://en.wikipedia.org/wiki/Binary_scaling#Binary_angles) to study the evolution of the rotation of asteroids and planetary satellites.
 
 
 ### Acknowledgement.
@@ -24,3 +24,17 @@ Proceedings of the Journées 2019 "Astrometry, Earth Rotation, and Reference Sys
 
 
 so before publication of  next paper,  if you consider, you can cite this one :) Thanks 
+
+### Presentation
+Will be available here after video meeting
+
+### Collection of interesting links
+
+[Fast fixed-point sine and cosine approximation with Julia](https://nextjournal.com/zorn/fast-fixed-point-sine-and-cosine-approximation-with-julia) by Soeren Zorn•Feb 04 2020
+
+#### TomF's Tech Blog  It
+He works at Intel on GPU and CPU core architectures.
+He worked at Oculus VR on the distortion and timewarp presentation pipeline and many [other](http://eelpi.gotdns.org/)
+And he defended fixed-point in [wikiblog](http://eelpi.gotdns.org/blog.wiki.html) post *A matter of precision* created 1 May 2006 and [updated](https://twitter.com/tom_forsyth/status/430762126471229440) at 29 November 2014.
+
+
