@@ -28,6 +28,10 @@ so before publication of  next paper,  if you consider, you can cite this one :)
 ### Presentation
 Will be available here after video meeting
 
+### Disscusion
+If you have any questions, ideas or anything to share, I want to propose using the ["Issue"](https://github.com/gekaremi/branglez/issues) of current repository as forum for such activities.
+
+
 ### Collection of interesting links
 
 First of all, incredible collection about floating-ponts numbers.
