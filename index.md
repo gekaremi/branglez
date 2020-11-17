@@ -102,3 +102,13 @@ Posted on February 13, 2012
 [Intel Underestimates Error Bounds by 1.3 quintillion](https://randomascii.wordpress.com/2014/10/09/intel-underestimates-error-bounds-by-1-3-quintillion/)
 Posted on October 9, 2014
 
+
+№№№ Fixed-Point Real Numbers
+[Document number: P0037R7](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0037r7.html)
+Date: 2019-06-17
+Reply-to: John McFarlane, wg21@john.mcfarlane.name
+Audience: SG6, LEWGI
+
+Fixed-Point Real Numbers
+Introduction
+This proposal introduces a system for performing fixed-point arithmetic using integral types.
