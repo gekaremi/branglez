@@ -15,18 +15,18 @@ The report will talk about the use of [Binary Angular Measurement](https://en.wi
 The reported study was funded by RFBR according to the research project 19-02-00811.
 
 ### Citation
+Presentation available and citable here [https://doi.org/10.5281/zenodo.4279768](https://doi.org/10.5281/zenodo.4279768)
+
 This project had been started as part of this work: [Chaos and relativistic effects in the rotational dynamics of minor planetary satellites
 ](https://ui.adsabs.harvard.edu/abs/2020jsrs.conf..339M/abstract)  (Melnikov, A. V.; Pashkevich, V. V.; Vershkov, A. N.; Karelin, G. M.)
 
 Publication: 
 Proceedings of the Journées 2019 "Astrometry, Earth Rotation, and Reference Systems in the GAIA era", Observatoire de Paris, Paris, France, 7-9 October 2019, Ed. C. Bizouard, pp. 339-344
 
-
-
 so before publication of  next paper,  if you consider, you can cite this one :) Thanks 
 
 ### Presentation
-Will be available here after video meeting
+Available and citable here [https://doi.org/10.5281/zenodo.4279768](https://doi.org/10.5281/zenodo.4279768)
 
 ### Disscusion
 If you have any questions, ideas or anything to share, I want to propose using the ["Issue"](https://github.com/gekaremi/branglez/issues) of current repository as forum for such activities.
