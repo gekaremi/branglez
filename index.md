@@ -1,6 +1,6 @@
 # Applying Fixed Point Numbers for Astronomy
 
-## Branglez
+## Branglez = Binary Radian ANGLEZ
 
 Scientists are concerned with describing the real world using mathematical abstractions. They often take the form of formulas, in many cases equations, differential or integral. However, it turns out very quickly that most of the real problems cannot be solved analytically. Then they have to be solved numerically, using computers. In fact, the text of reality is translated into the language of formulas, after which they are translated into programming languages. But any translation is imperfect and prone to loss and distortion. It is helpful to remember that ultimately everything will need to be translated into computer language. Sometimes, you can try to write in it right away, but this requires restructuring and supplementing the standard process of scientific thinking. In addition, it is important to take into account the peculiarities of the problem, which will determine the algorithms used and the types of data representations.
 
