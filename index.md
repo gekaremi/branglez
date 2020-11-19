@@ -14,7 +14,7 @@ The report will talk about the use of [Binary Angular Measurement](https://en.wi
 
 One of the first publications I read during my research on this topic, almost a couple of years ago, was a blog post titled ["Sin & Cos: The Programmer's Pals!"](https://www.helixsoft.nl/articles/circle/sincos.htm). 
 I can remember the date quite accurately because I found this article thanks to [Hacker News entry](https://news.ycombinator.com/item?id=16526942).
-As, I found out later, its author was Dr. Martijn van Iersel, one of the developers of the [Allegro library](https://www.allegro.cc/manual/5/fixed.html ), which has support for fixed-point numbers and binary angles. Communication with him and discussion of issues helped to better understand the pros and cons of this idea, and most importantly, led to the realization that ordinary fixed-point numbers and binary angular measurements are two different entities, albeit very similar. Therefore, I am very grateful to him for his help.
+As, I found out later, its author was [Dr. Martijn van Iersel](https://github.com/amarillion), one of the developers of the [Allegro library](https://www.allegro.cc/manual/5/fixed.html ), which has support for fixed-point numbers and binary angles. Communication with him and discussion of issues helped to better understand the pros and cons of this idea, and most importantly, led to the realization that ordinary fixed-point numbers and binary angular measurements are two different entities, albeit very similar. Therefore, I am very grateful to him for his help.
 
 
 
